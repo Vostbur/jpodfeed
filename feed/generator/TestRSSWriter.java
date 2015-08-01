@@ -1,4 +1,4 @@
-package com.feed.generator;
+package jpodfeed.feed.generator;
 
 import java.util.ArrayList;
 import java.util.Calendar;

@@ -1,4 +1,4 @@
-package com.feed.generator;
+package jpodfeed.feed.generator;
 
 class RSSHeader {
     private String title = "";

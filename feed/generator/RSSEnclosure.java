@@ -1,4 +1,4 @@
-package com.feed.generator;
+package jpodfeed.feed.generator;
 
 class RSSEnclosure {
     private String url = "";

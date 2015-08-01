@@ -1,4 +1,4 @@
-package com.feed.generator;
+package jpodfeed.feed.generator;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
